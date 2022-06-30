@@ -1,0 +1,118 @@
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+   
+  
+    }
+.help-block.with-errors {
+    color: #ff5050;
+  
+
+}
+
+.section1{
+    float: center;
+    display: block;
+    width: 90%;
+    padding: 2.5%;
+    margin: 10px 2.5%;
+    background-color:light blue;
+}
+
+form{
+    padding-top: 15px;
+    display: block;
+    font-weight: bold;
+    text-align: left;
+    color: #a1b4c7;
+    margin: 0 auto;
+    width: 40%;
+    
+}
+
+label{
+    padding-bottom:10px; 
+    display:block;
+    text-align: left;
+    color: #52296d;
+    font-size: 22px;
+  }
+
+  .input{
+    background-color: transparent;
+    border: 0;
+    border-bottom: 1px solid #52296d;
+    background-position: left;
+    background-repeat: no-repeat;
+    outline: none;
+    margin: 10px;
+    height: 20px;
+    width:90%; 
+    padding: 10px;
+    font-size: 22px;
+  } 
+
+ .frm{
+    font-family: 'Sofia' , cursive;
+    font-size:34px;
+    color: #52296d;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+
+  .input1{
+    background-color: #52296d;
+    border: 0;
+    border-radius: 36px;
+    display: inline;
+    outline: none;
+    margin-top: 10px;
+    width: 30%;
+    height: 50px;
+  
+    color: #fff;
+    font-family: 'Sofia' , cursive;
+    font-size: 20px;
+  }
+
+  .selection11
+  {
+
+    padding: 1px; 
+    border: solid 1px #0b0e11; 
+    outline: 0; 
+    width: 50%;
+    margin-left: 22px;
+    background: rgb(158, 186, 237);
+    color: #333;
+  }
+  textarea{
+    width:100%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

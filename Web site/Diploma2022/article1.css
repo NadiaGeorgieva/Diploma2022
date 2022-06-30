@@ -1,0 +1,10 @@
+.m-nu{
+   
+    display: inline-block;
+    width: 90%;
+    padding: 2.5%;
+    margin: 10px 5%;
+    background-color:rgb(234, 241, 246);
+    border-color: black;
+    color: rgb(26, 23, 20);
+}
